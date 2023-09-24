@@ -18,6 +18,7 @@ This is a Jupyter notebook that loads a Kaggle dataset into Redis in two manners
 
 ## Prerequisites <a name="prerequisites"></a>
 - Redis Enterprise database with Search and JSON enabled
+- Kaggle account
 - Python
 - Jupyter
 
